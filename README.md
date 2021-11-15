@@ -1,2 +1,1 @@
-# OkoBere
-Hrak oko bere.
+
