@@ -1,0 +1,7 @@
+C:\Users\jirka\source\repos\Oko bere\Oko bere\bin\Debug\Oko bere.exe.config
+C:\Users\jirka\source\repos\Oko bere\Oko bere\bin\Debug\Oko bere.exe
+C:\Users\jirka\source\repos\Oko bere\Oko bere\bin\Debug\Oko bere.pdb
+C:\Users\jirka\source\repos\Oko bere\Oko bere\obj\Debug\Oko bere.csproj.AssemblyReference.cache
+C:\Users\jirka\source\repos\Oko bere\Oko bere\obj\Debug\Oko bere.csproj.CoreCompileInputs.cache
+C:\Users\jirka\source\repos\Oko bere\Oko bere\obj\Debug\Oko bere.exe
+C:\Users\jirka\source\repos\Oko bere\Oko bere\obj\Debug\Oko bere.pdb
